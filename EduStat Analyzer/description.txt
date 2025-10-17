@@ -1,0 +1,13 @@
+EduStat Analyzer is a simple Python GUI application built with Tkinter for educational institutions to quickly
+analyze student performance data from CSV files. The app uses NumPy for statistical calculations and provides
+insights such as class mean, median, highest and lowest marks, and pass/fail counts.
+FEATURES:
+->User-friendly interface with Tkinter.
+->Input fields for institute name and class.
+->CSV file upload functionality.
+Calculates and displays:
+->Mean marks
+->Median marks
+->Highest and lowest marks
+->Pass and fail counts (threshold: 180 marks)
+
