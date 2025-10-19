@@ -1,0 +1,29 @@
+->Data analysis is a process of inspecting, cleansing, transforming and modelling data with the goal of discovering useful information,informing conclusion ad support descision-making..
+
+# What is Pandas ? 
+
+-> Used for working with data sets.
+-> analyzing , cleanning , exploring , manipulating data
+-> can work with csv,txt,xml,json,zip files..
+
+# Pandas Vs Excel
+
+-> filtering is tough in Excel
+
+# Pandas DS
+
+-> Series [1D data]
+-> DataFrame [2D data]
+-> Panel [3D data]
+
+# Installation and import of Pandas
+
+-> pip install pandas
+-> import pandas as pd
+
+# Importance of Pandas
+
+-> analysis of big data
+-> Easy handling
+-> Size mutability
+-> Data set merging and joining
